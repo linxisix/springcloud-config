@@ -1,2 +1,2 @@
 config:
-  info: this is first config-yaml under master
+  info: this is first config-yaml under master  version = 1
