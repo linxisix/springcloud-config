@@ -1,2 +1,2 @@
-incloud:
-  this is first config-yaml under master
+config:
+  info: this is first config-yaml under master
